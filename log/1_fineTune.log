@@ -1,0 +1,15 @@
+1
+[<WikipediaPage 'HPV vaccine'>]
+('Baculoviridae', 'Evolution', 'Baculoviruses are thought to have evolved from the Nudiviridae family of viruses 310 million years ago.', 29)
+         title  ... tokens
+0  HPV vaccine  ...    380
+1  HPV vaccine  ...    163
+2  HPV vaccine  ...    502
+3  HPV vaccine  ...    267
+4  HPV vaccine  ...    298
+
+[5 rows x 4 columns]
+HPV vaccine    44
+Name: title, dtype: int64
+False    44
+Name: title, dtype: int64

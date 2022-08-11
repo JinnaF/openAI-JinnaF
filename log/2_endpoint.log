@@ -1,0 +1,72 @@
+nohup: ignoring input
+         title  ...                                            context
+0  HPV vaccine  ...  HPV vaccine\nSummary\n\nHuman papillomavirus (...
+1  HPV vaccine  ...  HPV vaccine\nMedical uses\n\nHPV vaccines are ...
+2  HPV vaccine  ...  HPV vaccine\nEfficacy\n\nThe HPV vaccine has b...
+3  HPV vaccine  ...  HPV vaccine\nMales\n\nHPV vaccines are approve...
+4  HPV vaccine  ...  HPV vaccine\nRecommendations by national bodie...
+
+[5 rows x 5 columns]
+1.
+Human papillomavirus (HPV) vaccines are vaccines that prevent infection by certain types of human papillomavirus (HPV). Available HPV vaccines protect against either two, four, or nine types of HPV. All HPV vaccines protect against at least HPV types 16 and 18, which cause the greatest risk of cervical cancer. It is estimated that HPV vaccines may prevent 70% of cervical cancer, 80% of anal cancer, 60% of vaginal cancer, 40% of vulvar cancer, and show more than 90% efficacy in preventing HPV-positive oropharyngeal cancers. They additionally prevent some genital warts, with the quadrivalent and nonavalent vaccines that protect against HPV types HPV-6 and HPV-11 providing greater protection.The World Health Organization (WHO) recommends HPV vaccines as part of routine vaccinations in all countries, along with other prevention measures. The vaccines require two or three doses depending on a person's age and immune status. Vaccinating girls around the ages of nine to thirteen is typically recommended. The vaccines provide protection for at least 5 to 10 years. Cervical cancer screening is still required following vaccination. Vaccinating a large portion of the population may also benefit the unvaccinated.HPV vaccines are very safe. Pain at the site of injection occurs in about 80% of people. Redness and swelling at the site and fever may also occur. No link to Guillain–Barré syndrome has been found.The first HPV vaccine became available in 2006. As of 2017, 71 countries include it in their routine vaccinations, at least for girls. It is on the World Health Organization's List of Essential Medicines and prequalified vaccines. Vaccination may be cost effective in the low and middle-income countries. As of 2017, Gardasil 9 is the only version available in the United States.
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+1.
+Traceback (most recent call last):
+  File "/raid/jfeng2/chatBot/openAI/2_create_synthetic_qa_data.py", line 117, in <module>
+    print("", "answer with finetune", create_context("Is HPV vaccine safe?", hpv_search_fileid, max_len=400))
+  File "/raid/jfeng2/chatBot/openAI/answers_with_ft.py", line 28, in create_context
+    results = openai.Search.create(
+  File "/raid/jfeng2/anaconda3/envs/chatbot/lib/python3.10/site-packages/openai/api_resources/search.py", line 25, in create
+    return super().create(*args, **kwargs)
+  File "/raid/jfeng2/anaconda3/envs/chatbot/lib/python3.10/site-packages/openai/api_resources/abstract/engine_api_resource.py", line 115, in create
+    response, _, api_key = requestor.request(
+  File "/raid/jfeng2/anaconda3/envs/chatbot/lib/python3.10/site-packages/openai/api_requestor.py", line 121, in request
+    resp, got_stream = self._interpret_response(result, stream)
+  File "/raid/jfeng2/anaconda3/envs/chatbot/lib/python3.10/site-packages/openai/api_requestor.py", line 328, in _interpret_response
+    self._interpret_response_line(
+  File "/raid/jfeng2/anaconda3/envs/chatbot/lib/python3.10/site-packages/openai/api_requestor.py", line 361, in _interpret_response_line
+    raise self.handle_error_response(
+openai.error.InvalidRequestError: You do not have access to the search endpoint, likely because it is deprecated. Please see https://community.openai.com/t/answers-classification-search-endpoint-deprecation/18532 for more information and reach out to deprecation@openai.com if you have any questions.

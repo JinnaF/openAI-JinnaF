@@ -1,0 +1,69 @@
+         title  ...                                            context
+0  HPV vaccine  ...  HPV vaccine\nSummary\n\nHuman papillomavirus (...
+1  HPV vaccine  ...  HPV vaccine\nMedical uses\n\nHPV vaccines are ...
+2  HPV vaccine  ...  HPV vaccine\nEfficacy\n\nThe HPV vaccine has b...
+3  HPV vaccine  ...  HPV vaccine\nMales\n\nHPV vaccines are approve...
+4  HPV vaccine  ...  HPV vaccine\nRecommendations by national bodie...
+
+[5 rows x 5 columns]
+1.
+Human papillomavirus (HPV) vaccines are vaccines that prevent infection by certain types of human papillomavirus (HPV). Available HPV vaccines protect against either two, four, or nine types of HPV. All HPV vaccines protect against at least HPV types 16 and 18, which cause the greatest risk of cervical cancer. It is estimated that HPV vaccines may prevent 70% of cervical cancer, 80% of anal cancer, 60% of vaginal cancer, 40% of vulvar cancer, and show more than 90% efficacy in preventing HPV-positive oropharyngeal cancers. They additionally prevent some genital warts, with the quadrivalent and nonavalent vaccines that protect against HPV types HPV-6 and HPV-11 providing greater protection.The World Health Organization (WHO) recommends HPV vaccines as part of routine vaccinations in all countries, along with other prevention measures. The vaccines require two or three doses depending on a person's age and immune status. Vaccinating girls around the ages of nine to thirteen is typically recommended. The vaccines provide protection for at least 5 to 10 years. Cervical cancer screening is still required following vaccination. Vaccinating a large portion of the population may also benefit the unvaccinated.HPV vaccines are very safe. Pain at the site of injection occurs in about 80% of people. Redness and swelling at the site and fever may also occur. No link to Guillain–Barré syndrome has been found.The first HPV vaccine became available in 2006. As of 2017, 71 countries include it in their routine vaccinations, at least for girls. It is on the World Health Organization's List of Essential Medicines and prequalified vaccines. Vaccination may be cost effective in the low and middle-income countries. As of 2017, Gardasil 9 is the only version available in the United States.
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+That model does not exist
+1.
+
+ 2.7 (Optional) Investigation into how likely the search endpoint is to return the relevant context 
+ []
+
+ ada results. 
+ 0    []
+1    []
+2    []
+3    []
+4    []
+dtype: object
+nan% of relevant paragraphs are retrieved within the first 2k tokens
+nan% of relevant paragraphs are not retrieved within the first 200 results
+Series([], Name: rank, dtype: float64)
